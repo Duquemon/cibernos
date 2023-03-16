@@ -12,7 +12,7 @@ Construir una imagen a partir del Dockerfile
 ```
 Correr un contenedor a partir de la imagen generada: 
 ```bash
-    docker run -d -p 8001:8001 cibernos 
+    docker run -d -p 5000:5000 cibernos 
 ```
 
 
